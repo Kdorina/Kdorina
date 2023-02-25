@@ -5,6 +5,7 @@
 - 💡 I’m currently learning: NodeJs, Angular, Laravel
 - 🏫 I’m going to finish school at: 2023.05.28
 
+#### Github Stats:
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kdorina&count_private=true&show_icons=true&theme=radical" width="400">
 <br />
