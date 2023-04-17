@@ -10,8 +10,9 @@
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kdorina&show_icons=true&theme=radical"/>
 #### Most Used Languages
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdorina&hide=php&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321&langs_count=8&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdorina&layout=compact" />
 </div>
+[![Top Langs]()
 
 #### Languages and Tools:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
