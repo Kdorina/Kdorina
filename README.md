@@ -8,8 +8,7 @@
 
 #### Github Stats:
 <div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kdorina&count_private=true&show_icons=true&theme=radical" width="400">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Kdorina&show_icons=true&theme=radical
 #### Most Used Languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdorina&hide=php&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321&langs_count=8&layout=compact" />
 </div>
@@ -22,10 +21,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### Databases:
