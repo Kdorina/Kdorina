@@ -8,7 +8,7 @@
 
 #### Github Stats:
 <div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kdorina&show_icons=true&theme=radical
+  <img src="https://github-readme-stats.vercel.app/api?username=Kdorina&show_icons=true&theme=radical"/>
 #### Most Used Languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdorina&hide=php&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321&langs_count=8&layout=compact" />
 </div>
