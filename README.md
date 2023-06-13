@@ -3,12 +3,14 @@
 
 - 🔭 I’m currently working on: Student Website
 - 🌱 New project: Planty
-- 💡 I’m currently learning: NodeJs, Angular, Laravel
+- 💡 I’m currently learning: Angular, Laravel, Xcode
 - 🏫 I’m going to finish school at: 2023.05.28
 
 #### Github Stats:
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kdorina&show_icons=true&theme=radical"/>
+  https://github-readme-stats.vercel.app/api?username=Kdorina&show_icons=true&theme=radical)
+  https://github-readme-stats.vercel.app/api?username=Kdorina&show_icons=true&theme=transparent)
   
 #### Most Used Languages:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdorina&layout=compact" />
