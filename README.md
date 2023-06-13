@@ -6,14 +6,9 @@
 - 💡 I’m currently learning: Angular, Laravel, Xcode
 - 🏫 I’m going to finish school at: 2023.05.28
 
-#### Github Stats:
-<div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kdorina&show_icons=true&theme=radical"/>
-  
 #### Most Used Languages:
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdorina&layout=compact" />
-</div>
-
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kdorina&layout=compact&langs_count=16&theme=radical"/>
+  
 #### Languages and Tools:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
