@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on: Student Website
-- 🌱 New project: Planty
+- 🌱 New project: Planty, Dentist
 - 💡 I’m currently learning: Angular, Laravel, Xcode
 - 🏫 I’m going to finish school at: 2023.05.28
 
