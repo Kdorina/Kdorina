@@ -2,9 +2,12 @@
 
 
 - 🔭 I’m currently working on: Student Website
-- 🌱 New project: Planty, Dentist
+- 🌱 New project: Planty, OneDent
 - 💡 I’m currently learning: Angular, Laravel, Xcode
 - 🏫 I’m going to finish school at: 2023.05.28
+
+#### Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kdorina&show_icons=true&theme=transparent)
 
 #### Most Used Languages:
 <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kdorina&layout=compact&langs_count=16&theme=radical"/>
