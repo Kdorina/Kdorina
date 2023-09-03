@@ -1,10 +1,9 @@
 ### Hi, I'm Dorina Kovács👋
 
 
-- 🔭 I’m currently working on: Student Website
-- 🌱 New project: Planty, OneDent
+- 🔭 I’m currently working on: Planty
+- 🌱 New project: OneDent, Rest&Brunch
 - 💡 I’m currently learning: Angular, Laravel, Xcode
-- 🏫 I’m going to finish school at: 2023.05.28
 
 #### Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kdorina&show_icons=true&theme=transparent)
