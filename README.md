@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: Planty
 - 🌱 New project: OneDent, Rest&Brunch
-- 💡 I’m currently learning: Angular, Laravel, Xcode (Swift), MongoDB
+- 💡 I’m currently learning: Angular, Laravel, React, Xcode (Swift), MongoDB
 
 #### Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kdorina&show_icons=true&theme=transparent)
